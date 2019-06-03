@@ -1,0 +1,67 @@
+.Mastermind {
+    text-align: center;
+}
+
+.board_table {
+    margin: 0 auto;
+}
+
+.feedback_table {
+    margin-left: 20px;
+}
+
+.feedback_table td {
+    margin: 0;
+    padding: 3px
+}
+
+.feedback_cell {
+    padding-left: 32px;
+}
+
+.palette_circles {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.status_circles {
+    margin: 0 auto;
+}
+
+.status_circles td {
+    padding: 0 50px;
+}
+
+.large_circle {
+    width: 50px;
+    height: 50px;
+    opacity:0.7;
+    transition:all 0.3s ease;
+}
+
+.large_circle:hover
+{
+    opacity:0.9;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.small_circle {
+    width: 15px;
+    heigh: 15px;
+}
+
+.visable {
+    visibility: visible;
+  }
+  
+.invisable {
+    visibility: hidden;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+
