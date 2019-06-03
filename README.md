@@ -2,7 +2,7 @@
 Made by: Jevan Smith
 
 ## Project Goals
-Build a version of Mastermind using react while learning the basics of react and how it works.
+A simple version of Mastermind using react while learning the basics of react and how it works.
 
 ## Requirements
 - :exclamation: Make sure node.js and npm is installed
