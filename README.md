@@ -14,5 +14,5 @@ A simple version of Mastermind using react while learning the basics of react an
 - green hint circles mean you have a correct color in the correct position.
 - For more game information https://en.wikipedia.org/wiki/Mastermind_(board_game)
 
-## Expected Outputs Below
+## Game Gifs
 ![demo gif1](ezgif-2-3de78d121625.gif)
