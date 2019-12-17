@@ -1,6 +1,3 @@
-## Authors
-Made by: Jevan Smith
-
 ## Project Goals
 A simple version of Mastermind using react while learning the basics of react and how it works.
 
